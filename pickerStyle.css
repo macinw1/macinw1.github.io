@@ -1,0 +1,46 @@
+/* CSS */
+* {
+
+
+}
+
+body {
+    text-align: center; 
+    background-color: #6d6d6d; 
+    font-family: 'Major Mono Display', monospace;	
+
+
+
+}
+
+button {
+    margin-top: 10px;
+}
+
+em {
+    font-size: xxx-small;
+}
+
+p {
+    width: 500px;
+    margin: 15px auto;
+    font-size: small;
+}
+
+#container {
+    margin: auto;
+    width: 250px;
+    height: 150px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+#text {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#info {
+  	color: rgb(150, 150, 150);
+}
